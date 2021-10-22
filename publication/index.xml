@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Jin Xu</title>
+    <link>https://jinxu06.github.io/publication/</link>
+      <atom:link href="https://jinxu06.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 11:50:37 +0000</lastBuildDate>
+    <image>
+      <url>https://jinxu06.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://jinxu06.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Group Equivariant Subsampling</title>
+      <link>https://jinxu06.github.io/publication/xu-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 11:50:37 +0000</pubDate>
+      <guid>https://jinxu06.github.io/publication/xu-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MetaFun: Meta-Learning with Iterative Functional Updates</title>
+      <link>https://jinxu06.github.io/publication/xu-2020/</link>
+      <pubDate>Fri, 01 May 2020 11:50:37 +0000</pubDate>
+      <guid>https://jinxu06.github.io/publication/xu-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controllable Probabilistic Semantic Image Inpainting</title>
+      <link>https://jinxu06.github.io/publication/xu-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 11:50:37 +0000</pubDate>
+      <guid>https://jinxu06.github.io/publication/xu-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
